@@ -1,3 +1,7 @@
-hello = "hello world"
-print(hello)
-print("Testing this out just to test it")
+def main():
+    print("hello world")
+
+
+if __name__ == "__main__":
+    main()
+    
